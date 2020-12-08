@@ -1,0 +1,21 @@
+div {
+    background-color: black;
+    color: white;
+}
+
+.img1 {
+    display: inline-block;
+    width: 500px;
+    margin: 10px;
+    border-style: solid;
+    border-color: white;
+}
+
+.img2 {
+    display: inline-block;
+    width: 400px;
+    margin: 10px;
+    vertical-align: top;
+    border-style: solid;
+    border-color: white;
+}
